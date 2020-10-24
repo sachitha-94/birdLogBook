@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pocket Bird</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="title_activity_map_gallery">Map</string>
+
+
+</resources>
